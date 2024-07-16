@@ -1,0 +1,12 @@
+#mod rewrite
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteBase /
+	
+	RewriteCond %{SCRIPT_FILENAME} !-d
+	RewriteCond %{SCRIPT_FILENAME} !-f
+	
+	RewriteRule ^.*$ index.php [NC,L]
+	RewriteRule ^(js|img|css|favicon\.ico)/ - [L,QSA,S=2]
+</IfModule>
+Options -Indexes

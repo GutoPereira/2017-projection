@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="pt-br" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Projeção de Carreira &bull; Guto Pereira</title>
+        <link rel="stylesheet" type="text/css" href="styles/main.css">
+        <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+        <meta name="robots" content="noindex,nofollow"/>
+        <meta name="author" content="Guto Pereira"/>
+        <meta name="reply-to" content="contato@gutopereira.com">
+        <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <header>
+            <nav>
+                <a href="http://gutopereira.com" target="_blank"><div id="logo"></div></a>
+            </nav>
+        </header>
+        <section id="window">
+            <article class="option" id="intro">
+                <img src="images/gp.jpg" alt="Guto Pereira"/>
+                <span>
+                    <h1>Olá.</h1>
+                    <p>Eu sou o Guto. Esta é uma projeção das minhas possibilidades de carreira. Eu tenho um certo número de habilidades e interesses a desenvolver, então não é como se algo aqui esteja escrito em rocha (quem me dera). Encare isso como um ponto de partida para diversas carreiras ainda não traçadas, cada uma iniciando em um ou mais desses interesses.</p>
+                </span>
+            </article>
+            <article class="option" id="webdev">
+                <video poster="images/webdev-poster.jpg" autoplay muted loop>
+                    <source src="videos/webdev.mp4" type="video/mp4">
+                    <source src="videos/webdev.mov" type="video/mov">
+                </video>
+                <span>
+                    <h1>Web Dev</h1>
+                    <p>Dentro desta área, tenho grande interesse em <strong>usabilidade</strong> e <strong>interfaces</strong>, bem como a parte gráfica. Porém, também me interesso em <strong>programação</strong>, <strong>arquitetura da informação</strong> e outras áreas menos comuns.</p>
+                    <p>Uma das possibilidades de futuro é me tornar um <strong>desenvolvedor Full-stack</strong> e, quem sabe, liderar uma equipe focada na <strong>criação de sites</strong> e <strong>aplicativos</strong>.</p>
+                </span>
+            </article>
+            <article class="option" id="prototyping">
+                <video poster="images/prototyping.jpg" autoplay muted loop>
+                    <source src="videos/prototyping.mp4" type="video/mp4">
+                </video>
+                <span>
+                    <h1>Prototipagem 3D</h1>
+                    <p>Durante a graduação, tive contato com impressões 3D e prototipagem rápida. Como tinha acesso a uma impressora 3D, me aprofundei em seu uso e, aos poucos, fui me interessando mais.</p>
+                    <p>As possibilidades nesta área são amplas, porém penso que poderia trabalhar com a experimentação dos materiais e/ou as possibilidades criadas neste setor para o desenvolvimento de <strong>novas tecnologias</strong>.</p>
+                </span>
+            </article>
+            <article class="option" id="gamedesign">
+                <video poster="images/gamedesign.jpg" autoplay muted loop>
+                    <source src="videos/gamedesign.mp4" type="video/mp4">
+                </video>
+                <span>
+                    <h1>Game Design</h1>
+                    <p>Sempre fui apaixonado por jogos e, de vez em quando, sou chamado para desenvolver um. Não me aprofundei muito nesta área ainda mas, com certeza, seria uma atividade muito prazerosa para mim.</p>
+                    <p>Poderia trabalhar na área criativa de uma equipe de desenvolvimento de jogos, trazendo novos tipos de interação e jogabilidade para o setor.</p>
+                </span>
+            </article>
+            <article class="option" id="experimental">
+                <video poster="images/experimental.jpg" autoplay muted loop>
+                    <source src="videos/experimental.mp4" type="video/mp4">
+                </video>
+                <span>
+                    <h1>Design Experimental</h1>
+                    <p>Não excluo mesclar dois ou mais dos meus interesses e habilidades. É possível que eu acabe fazendo algo que não esteja nem um pouco claro em meu horizonte. Tenho certeza de que, independente de o que eu faça no futuro, farei com o intuito de inovar e experimentar o novo para, ao longo do trajeto, transmitir o conhecimento adquirido.</p>
+                </span>
+            </article>
+        </section>
+    </body>
+</html>
